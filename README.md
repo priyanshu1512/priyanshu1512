@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu1512&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu1512" /> </p>
 
-- 🌱 I’m currently learning **Android (Kotlin)**
 
 - 👨‍💻 My Portfolio Website: [https://priyanshu1512.github.io/Resume/](https://priyanshu1512.github.io/Resume/)
 
